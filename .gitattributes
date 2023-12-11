@@ -1,5 +1,5 @@
 # Set the default behavior to LF.
-* text eol=lf
+* text eol=8f
 
 # Denote all files that are truly binary and should not be modified.
 *.png binary
